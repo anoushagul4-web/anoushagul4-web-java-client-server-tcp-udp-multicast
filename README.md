@@ -243,6 +243,3 @@ The TCP implementation ensures reliable communication and supports multiple clie
 
 The project provides hands-on experience with **socket programming, networking protocols, and distributed system communication**, which are essential concepts in computer networking and operating systems.
 
-
-
-If you want, I can also help you make your README **look much more professional with diagrams, architecture flowcharts, and badges (which makes GitHub projects look much stronger for portfolios)**.
